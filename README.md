@@ -1,2 +1,2 @@
-# node-swagger-mongo
+# node-swagger-mongo-gridfs-api
 This is an API to perform crud on mongoDB. It is basically a challenger for all the MongoDB GUI projects.
